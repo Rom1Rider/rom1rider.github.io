@@ -255,9 +255,6 @@ a img {
     transition: transform 0.3s ease;
 }
 
-a:hover {
-    text-decoration: underline;
-}
 a img:hover {
     transform: scale(1.1); /* Agrandit l'image légèrement au survol */
 }
