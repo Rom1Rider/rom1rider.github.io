@@ -249,3 +249,12 @@ a	{
     font-size: 20px;
     cursor: pointer;
 }
+
+a img {
+    margin: 10px;
+    transition: transform 0.3s ease;
+}
+
+a img:hover {
+    transform: scale(1.1); /* Agrandit l'image légèrement au survol */
+}
