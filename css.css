@@ -263,6 +263,7 @@ a img:hover {
 }
 
 a h3:hover {
-    transform: scale(1.1); /* Agrandir de 10 % */
-    transition: transform 0.3s ease; /* Animation fluide */
+	transform: scale(1.1); /* Agrandir de 10 % */
+   	transition: transform 0.3s ease; /* Animation fluide */
+	text-decoration: underline;
 }
