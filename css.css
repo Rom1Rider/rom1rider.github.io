@@ -261,3 +261,7 @@ a:hover {
 a img:hover {
     transform: scale(1.1); /* Agrandit l'image légèrement au survol */
 }
+
+a h3:hover {
+	transform: scale(1.1);
+}
