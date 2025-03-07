@@ -309,10 +309,10 @@ img {
 .box {
     width: 15%;
     height: 5%;
-    background-color: grey;
+    background-color: #ADD8E6; /* Bleu clair */
     position: relative;
     border-radius: 5px;
-	border-radius-color: #0000CD;
+	border-color: #0000CD; /* Bleu marine foncé */
 }
 
 #box1 {
