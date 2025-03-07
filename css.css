@@ -24,9 +24,8 @@ header {
 }
 
 header h1 {
-    margin: 0;
+    	margin: 0;
 	text-decoration: none; /* Add this line to remove underline */
-	 
 }
 
 h2 {
@@ -305,4 +304,33 @@ button:hover {
 img {
     max-width: 100%;
     height: auto;
+}
+
+.box {
+    width: 15%;
+    height: 5%;
+    background-color: grey;
+    position: absolute;
+    border-radius: 5px;
+	border-radius-color: #0000CD;
+}
+
+#box1 {
+    top: 0;
+    left: 0;
+}
+
+#box2 {
+    top: 0;
+    right: 0;
+}
+
+#box3 {
+    bottom: 0;
+    left: 0;
+}
+
+#box4 {
+    bottom: 0;
+    right: 0;
 }
