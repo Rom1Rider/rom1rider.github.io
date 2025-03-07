@@ -310,7 +310,7 @@ img {
     width: 15%;
     height: 5%;
     background-color: grey;
-    position: absolute;
+    position: relative;
     border-radius: 5px;
 	border-radius-color: #0000CD;
 }
